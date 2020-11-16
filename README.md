@@ -1,4 +1,4 @@
 # B.UDAY CHANDRA
 *CONNECT*:
-[LinkedIn](https://www.linkedin.com/in/uday-chandra/)
+1) [LinkedIn](https://www.linkedin.com/in/uday-chandra/)
 

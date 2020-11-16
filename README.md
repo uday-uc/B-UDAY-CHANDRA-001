@@ -1,4 +1,4 @@
 # B.UDAY CHANDRA
 *CONNECT*:
-![LinkedIn logo image](extras/logo.gif)
+[LinkedIn](https://www.linkedin.com/in/uday-chandra/)
 

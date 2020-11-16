@@ -1,12 +1,9 @@
 # B.UDAY CHANDRA
 ***IIITT-CSE***<BR>
-### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  
+  <!-- Actual text -->
 
-*CONNECT*:
-
-<!-- Actual text -->
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+You can find me on [![LinkedIn][2.2]][2] , or on [![Twitter][1.2]][1].
 
 <!-- Icons -->
 
@@ -17,4 +14,8 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 [1]: https://twitter.com/uday_chandra1
 [2]: https://www.linkedin.com/in/uday-chandra/
+### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+
+
 

@@ -1,6 +1,6 @@
+
 # B.UDAY CHANDRA
 ***IIITT-CSE***<BR>
-  
   <!-- Actual text -->
 
 You can find me on [![LinkedIn][2.2]][2] , or on [![Twitter][1.2]][1].
@@ -16,6 +16,6 @@ You can find me on [![LinkedIn][2.2]][2] , or on [![Twitter][1.2]][1].
 [2]: https://www.linkedin.com/in/uday-chandra/
 ### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
-
-
+I am B.Uday Chandra, currently pursuing Btech in CSE from Indian Institute of information technology-Trichy.
+* :earth_asia:Exploring Data Science.
+* :hand:I am always curious to learn new technologies.

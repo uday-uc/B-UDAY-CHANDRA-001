@@ -1,7 +1,8 @@
-
+![alt text](https://www.flaticon.com/svg/static/icons/svg/25/25231.svg)
 # B.UDAY CHANDRA
 ***IIITT-CSE***<BR>
   <!-- Actual text -->
+
 
 You can find me on [![LinkedIn][2.2]][2] , or on [![Twitter][1.2]][1].
 

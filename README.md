@@ -1,7 +1,7 @@
 
 <img src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" width="200" height="400" />
 
-# B.UDAY CHANDRA
+<h1> B.UDAY CHANDRA </h1>
 ***IIITT-CSE***<BR>
   <!-- Actual text -->
 

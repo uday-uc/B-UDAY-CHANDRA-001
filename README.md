@@ -2,7 +2,7 @@
 <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif"/>
 
 <h1> B.UDAY CHANDRA </h1>
-***IIITT-CSE***<BR>
+***IIITT-CSE*** <BR>
   <!-- Actual text -->
 
 

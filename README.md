@@ -1,5 +1,5 @@
 
-<img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif"  width="400" height="300"/>
+<img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif"  width="500" height="400"/>
 
 <h1> B.UDAY CHANDRA </h1>
 <i><b> IIITT-CSE </b></i>
@@ -23,3 +23,4 @@ You can find me on [![LinkedIn][2.2]][2] , or on [![Twitter][1.2]][1].
 I am B.Uday Chandra, currently pursuing Btech in CSE from Indian Institute of information technology-Trichy.
 * :earth_asia:Exploring Data Science.
 * :hand:I am always curious to learn new technologies.
+

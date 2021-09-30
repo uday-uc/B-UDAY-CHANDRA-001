@@ -24,3 +24,6 @@ I am B.Uday Chandra, currently pursuing Btech in CSE from Indian Institute of in
 * :earth_asia:Exploring Data Science.
 * :hand:I am always curious to learn new technologies.
 
+  
+  
+![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=B-UDAY-CHANDRA-001&count_private=true&&show_icons=true&&theme=radical)

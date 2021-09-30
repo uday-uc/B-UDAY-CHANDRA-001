@@ -1,5 +1,5 @@
 
-<img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif"  width="500" height="400"/>
+<!-- <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif"  width="500" height="400"/> -->
 
 <h1> B.UDAY CHANDRA </h1>
 <i><b> IIITT-CSE </b></i>

@@ -1,24 +1,15 @@
+<!-- <span align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></span> -->
+<h1 align="center">Hi 👋, I'm Uday Chandra Bhookya</h1>
+<h2 align="center"> Indian Institute of Information Technology Tiruchirappalli, CSE </h2>
+<h3 align="center">A passionate Software Engineer from India.</h3>
 
-<!-- <img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif"  width="500" height="400"/> -->
-
-<h1> B.UDAY CHANDRA </h1>
-<i><b> IIITT-CSE </b></i>
 <BR>
-  <!-- Actual text -->
-
-
-You can find me on [![LinkedIn][2.2]][2] , or on [![Twitter][1.2]][1].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/uday_chandra1
-[2]: https://www.linkedin.com/in/uday-chandra/
-### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/uday-chandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday-chandra" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/budaychandra2014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="budaychandra2014" height="30" width="40" /></a>
+</p>
 
 I am B.Uday Chandra, currently pursuing Btech in CSE from Indian Institute of information technology-Trichy.
 * :earth_asia:Exploring Data Science.

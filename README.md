@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/uday-chandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday-chandra" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/budaychandra2014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="budaychandra2014" height="30" width="40" /></a>
+ <a href = "mailto: bhookyauc18c@iiitt.ac.in" target="blank"> <img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-file-gmail-icon-svg-wikimedia-commons-0.png" alt="budaychandra2014" height="40" width="40" /></a>
 </p>
 
 I am B.Uday Chandra, currently pursuing Btech in CSE from Indian Institute of information technology-Trichy.

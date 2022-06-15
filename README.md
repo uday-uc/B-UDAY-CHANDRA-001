@@ -12,9 +12,9 @@
  <a href = "mailto: bhookyauc18c@iiitt.ac.in" target="blank"> <img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-file-gmail-icon-svg-wikimedia-commons-0.png" alt="budaychandra2014" height="40" width="40" /></a>
 </p>
 
-I am B.Uday Chandra, currently pursuing Btech in CSE from Indian Institute of information technology-Trichy.
+<!-- I am B.Uday Chandra, currently pursuing Btech in CSE from Indian Institute of information technology-Trichy.
 * :earth_asia:Exploring Data Science.
-* :hand:I am always curious to learn new technologies.
+* :hand:I am always curious to learn new technologies. -->
 
   
   
